@@ -1,0 +1,1 @@
+a.resizable(False, False)
